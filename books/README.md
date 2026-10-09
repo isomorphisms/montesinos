@@ -19,3 +19,13 @@ References for `montesinos`. These are bibliographic entries and links to source
 - [Goodman-Strauss: Orbifold Geometrization](https://chaimgoodmanstrauss.com/orbifold-geometrization/) — author's discussion and demonstration.
 - [hatvalidate: aperiodic monotile verification](https://github.com/isohedral/hatvalidate) — public Python source accompanying the Smith–Myers–Kaplan–Goodman-Strauss paper; checks hat-polykite matching conditions (shared research, hosted by Craig Kaplan).
 - [Domino Substitution Tilings](https://demonstrations.wolfram.com/DominoSubstitutionTilings/) — Wolfram Demonstrations Project notebook by Chaim Goodman-Strauss (2016).
+
+## Related survey: Peter Scott (paper, not book)
+
+**Peter Scott**, “The Geometries of 3-Manifolds,” *Bulletin of the London Mathematical Society* **15** (1983), no. 5, 401–487. [DOI](https://doi.org/10.1112/blms/15.5.401).
+
+- **Connection to Montesinos:** tessellations, orbifolds, Seifert fibered spaces, and locally homogeneous metrics belong in one 3-manifold picture.
+- **Reading route:** §§1–2 for 2-orbifolds; §3 for Seifert fibrations; §§4–5 for the eight model geometries and their classification.
+- **Distinction:** classifying tessellations or orbifold groups is not equivalent to showing that every 3-manifold admits one globally homogeneous metric. Geometrization allows decomposition into geometric pieces.
+
+This is a bridge between Montesinos's *Classical Tessellations and Three-Manifolds* and the group/symmetry references above. No copyrighted paper PDF is stored here.
