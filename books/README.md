@@ -22,6 +22,8 @@ References for `montesinos`. These are bibliographic entries and links to source
 
 ## Related survey: Peter Scott (paper, not book)
 
+**Feature not yet built:** [orbifold/Seifert visualization #1](https://github.com/isomorphisms/montesinos/issues/1), linked to the [eight-geometry viewer](https://github.com/isomorphismes/knot-complement/issues/13).
+
 **Peter Scott**, “The Geometries of 3-Manifolds,” *Bulletin of the London Mathematical Society* **15** (1983), no. 5, 401–487. [DOI](https://doi.org/10.1112/blms/15.5.401).
 
 - **Connection to Montesinos:** tessellations, orbifolds, Seifert fibered spaces, and locally homogeneous metrics belong in one 3-manifold picture.
