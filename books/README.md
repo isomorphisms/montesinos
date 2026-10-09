@@ -17,4 +17,5 @@ References for `montesinos`. These are bibliographic entries and links to source
 - [SymmHub](https://github.com/SymmHub/SymmHub) — symmetry libraries and interactive apps developed by Vladimir Bulatov and Chaim Goodman-Strauss (with Scott Vorthmann); MIT license.
 - [OrbifoldGeometrization.js](https://github.com/SymmHub/SymmHub/blob/main/lib/orbilib/OrbifoldGeometrization.js) — mathematical core for orbifold parsing, geometric decomposition, and fundamental domains.
 - [Goodman-Strauss: Orbifold Geometrization](https://chaimgoodmanstrauss.com/orbifold-geometrization/) — author's discussion and demonstration.
+- [hatvalidate: aperiodic monotile verification](https://github.com/isohedral/hatvalidate) — public Python source accompanying the Smith–Myers–Kaplan–Goodman-Strauss paper; checks hat-polykite matching conditions (shared research, hosted by Craig Kaplan).
 - [Domino Substitution Tilings](https://demonstrations.wolfram.com/DominoSubstitutionTilings/) — Wolfram Demonstrations Project notebook by Chaim Goodman-Strauss (2016).
