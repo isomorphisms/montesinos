@@ -12,6 +12,9 @@ References for `montesinos`. These are bibliographic entries and links to source
 
 5. **John H. Conway, Heidi Burgiel, and Chaim Goodman-Strauss**, *The Symmetries of Things* (A K Peters, 2008). [Publisher](https://www.routledge.com/The-Symmetries-of-Things/author/p/book/9781568812205). Plane and spatial symmetry, Conway's orbifold notation, symmetry classification, and geometric illustrations.
 
+## Papadopoulos / Thurston historical bridge
+
+See **[Papadopoulos on Thurston and the hyperbolic background](papadopoulos-thurston-history.md)**. This keeps the math.HO material that actually informs tessellations, hyperbolic structures, orbifolds and 3-manifold geometry close to the working references.
 ## Related public code and demonstrations
 
 - [SymmHub](https://github.com/SymmHub/SymmHub) — symmetry libraries and interactive apps developed by Vladimir Bulatov and Chaim Goodman-Strauss (with Scott Vorthmann); MIT license.
